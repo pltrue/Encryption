@@ -3,3 +3,10 @@
 ![Screenshot](Screenshot%202025-03-21%20163525.png)
 
 ระบบเข้ารหัสนี้กำลังอยู่ในช่วงพัฒนา โปรดติดตามการอัปเดตในอนาคต!
+
+# Function
+
+Encrypt files
+Decrypt files
+List all drives
+Create File Spam
