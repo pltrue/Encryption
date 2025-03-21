@@ -6,10 +6,10 @@
 
 # Function
 
-Encrypt files ##เข้ารหัสไฟล์
+Encrypt files (เข้ารหัสไฟล์)
 
-Decrypt files
+Decrypt files (ถอดรหัสไฟล์)
 
-List all drives
+List all drives (แสดงรายการไดรฟ์ทั้งหมด)
 
-Create File Spam
+Create File Spam (สร้างไฟล์สแปม)
