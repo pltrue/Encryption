@@ -6,7 +6,7 @@
 
 # Function
 
-Encrypt files
+Encrypt files ##เข้ารหัสไฟล์
 
 Decrypt files
 
