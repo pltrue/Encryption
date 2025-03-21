@@ -7,6 +7,9 @@
 # Function
 
 Encrypt files
+
 Decrypt files
+
 List all drives
+
 Create File Spam
